@@ -55,10 +55,10 @@ I am actively seeking opportunities to contribute to innovative projects and gro
 ## 📊 GitHub Statistics & Activity
 
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Equationeer&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anandkumar85&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### Activity Graph
-[![Equationeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Equationeer&theme=radical&hide_border=true&area=true)](https://github.com/Equationeer)
+[![Equationeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anandkumar85&theme=radical&hide_border=true&area=true)](https://github.com/Anandkumar85)
 
 
 
