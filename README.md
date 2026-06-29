@@ -28,16 +28,37 @@ Email Me 👉 ✉️ **anandgupta9262@gmail.com** For Collaboration/Project or A
 ![](https://nirzak-streak-stats.vercel.app/?user=Anandkumar85&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandkumar85&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anandkumar85&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=Anandkumar85&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## Let's Connect
+
+I am actively seeking opportunities to contribute to innovative projects and grow as a professional.
+
+- **Email:** [anandkumar2001gupta@gmail.com](mailto:anandkumar2001gupta@gmail.com)
+- **GitHub:** [Anandkumar85](https://github.com/Anandkumar85)
+- **LinkedIn:** [Anandkumar Gupta](https://www.linkedin.com/in/anandkumar-gupta-0a76971ba/)
+
+---
+
+**Open to opportunities in:** Full Stack Development, AI Engineering, Backend Development, and Internships
+
+---
+
+## 📊 GitHub Statistics & Activity
+
+### Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Equationeer&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+### Activity Graph
+[![Equationeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Equationeer&theme=radical&hide_border=true&area=true)](https://github.com/Equationeer)
 
 
 
